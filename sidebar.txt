@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yrl:home|Door43 (yrl)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yrl|d43-yrl repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yrl/archive/master.zip|d43-yrl.zip]]
+
+**Recent Changes**
+{{changes>ns = yrl}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yrl|Ethnologue data]]
+
